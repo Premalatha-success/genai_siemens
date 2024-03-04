@@ -14,7 +14,7 @@ import os
 deployment_name="gpt-35-turbo"
 openai.api_key=""
 openai.api_type="azure"
-#openai.api_key="9c1e73115ede423ebf99c56d4e80a434"
+#openai.api_key=" "
 #openai.api_base=""
 openai.api_base=""
 openai.api_version=""
